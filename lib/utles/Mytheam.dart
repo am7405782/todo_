@@ -4,6 +4,7 @@ import 'color.dart';
 
 class MyTheam {
   static final ThemeData LightTheam = ThemeData(
+    scaffoldBackgroundColor: Color(0xffDFECDB),
     appBarTheme: AppBarTheme(
       centerTitle: true,
       color: primaryColor,
